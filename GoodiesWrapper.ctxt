@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ setX(int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=y
+comment2.target=void\ setY(int)
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=goodies
+comment4.target=void\ setGoodies(Goodies)
+comment5.params=
+comment5.target=Goodies\ getGoodies()
+numComments=6

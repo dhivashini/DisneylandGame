@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=speed
+comment1.target=void\ updateSpeed(int)
+comment1.text=public\ Crackers1(SpeedNotifier\ speedNotifier)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ super(speedNotifier);\r\n}
+comment2.params=
+comment2.target=void\ moveCrackers1()
+numComments=3

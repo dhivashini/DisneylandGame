@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HurdleDragon()
+comment1.params=speed
+comment1.target=void\ updateSpeed(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

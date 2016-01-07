@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=speed
+comment0.target=void\ updateSpeed(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ setLocationForHurdle()
+comment3.params=
+comment3.target=void\ removeHurdle()
+numComments=4

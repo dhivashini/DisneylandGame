@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=scoreElement
+comment1.target=void\ update(java.lang.String)
+comment2.params=elementName\ element
+comment2.target=void\ addScoreObject(java.lang.String,\ ScoreCount)
+comment3.params=
+comment3.target=void\ updateLifeScore()
+comment4.params=
+comment4.target=java.util.HashMap\ getFinalScore()
+numComments=5

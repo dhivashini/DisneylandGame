@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Background()
+comment1.params=
+comment1.target=void\ act()
+comment10.params=path
+comment10.target=greenfoot.GreenfootImage\ getScoreImage(java.lang.String)
+comment2.params=startscreen
+comment2.target=void\ setStartScreen(StartScreen)
+comment3.params=gameMenuFacade
+comment3.target=void\ setGameMenuFacade(GameMenuFacade)
+comment4.params=
+comment4.target=GameMenuFacade\ getGameMenuFacade()
+comment5.params=
+comment5.target=void\ addNewGoodies()
+comment6.params=
+comment6.target=void\ addNewHurdle()
+comment7.params=
+comment7.target=SpeedNotifier\ getSpeedNotifier()
+comment8.params=
+comment8.target=void\ addScoreBoard()
+comment9.params=
+comment9.target=ScoreBoard\ getScoreBoard()
+numComments=11

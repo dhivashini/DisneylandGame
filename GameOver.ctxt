@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameOver()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=gameFacade
+comment2.target=void\ setGameMenuFacade(GameMenuFacade)
+comment3.params=scoreObjects
+comment3.target=void\ showScore(java.util.HashMap)
+numComments=4

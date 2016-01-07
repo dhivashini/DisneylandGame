@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ setX(int)
+comment1.params=y
+comment1.target=void\ setY(int)
+comment2.params=obs
+comment2.target=void\ setHurdle(Hurdle)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=
+comment5.target=Hurdle\ getHurdle()
+numComments=6

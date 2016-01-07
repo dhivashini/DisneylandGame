@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScoreCount()
+comment1.params=scoreElement
+comment1.target=ScoreCount(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=size
+comment3.target=greenfoot.GreenfootImage\ getScoreImage(int)
+comment4.params=
+comment4.target=void\ incrementScore()
+comment5.params=
+comment5.target=int\ getScore()
+comment6.params=
+comment6.target=void\ decrementScore()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HurdleFactory()
+comment1.params=hurdle
+comment1.target=Hurdle\ createHurdle(java.lang.String)
+comment2.params=s
+comment2.target=Goodies\ createGoodies(java.lang.String)
+numComments=3

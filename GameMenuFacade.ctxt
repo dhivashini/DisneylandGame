@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=startscreen\ mainGame
+comment0.target=GameMenuFacade(StartScreen,\ Background)
+comment1.params=
+comment1.target=GameMenuFacade()
+comment2.params=
+comment2.target=void\ pauseGame()
+comment3.params=
+comment3.target=void\ resumeGame()
+comment4.params=
+comment4.target=void\ replayGame()
+comment5.params=
+comment5.target=void\ startGame()
+comment6.params=startscreen
+comment6.target=void\ setStartScreen(StartScreen)
+comment7.params=maingame
+comment7.target=void\ setMainGame(Background)
+comment8.params=
+comment8.target=void\ stopGame()
+numComments=9
